@@ -1,3 +1,53 @@
+## [1.11.19](https://github.com/bubkoo/html-to-image/compare/v1.11.18...v1.11.19) (2024-02-29)
+
+### Bug Fixes
+
+* manage images with relative path in iFrame
+
+## [1.11.18](https://github.com/bubkoo/html-to-image/compare/v1.11.17...v1.11.18) (2024-02-28)
+
+### Bug Fixes
+
+* revert all commits which use an empty image as the option imagePlaceholder can be used
+
+## [1.11.17](https://github.com/bubkoo/html-to-image/compare/v1.11.16...v1.11.17) (2024-02-26)
+
+### Bug Fixes
+
+* fix snapshot of image tag without image src
+
+## [1.11.16](https://github.com/bubkoo/html-to-image/compare/v1.11.15...v1.11.16) (2024-02-16)
+
+### Bug Fixes
+
+* fix snapshot of webcam if the camera is not allowed to use (empty image)
+
+
+## [1.11.15](https://github.com/bubkoo/html-to-image/compare/v1.11.14...v1.11.15) (2024-02-14)
+
+### Bug Fixes
+
+* fix snapshot of webcam
+
+## [1.11.14](https://github.com/bubkoo/html-to-image/compare/v1.11.13...v1.11.14) (2024-02-14)
+
+### Bug Fixes
+
+* avoid cloning the children of an iframe twice
+
+## [1.11.13](https://github.com/bubkoo/html-to-image/compare/v1.11.12...v1.11.13) (2024-02-14)
+
+### Bug Fixes
+
+* manage PDF and Book (avoid to clone all pages)
+
+## [1.11.12](https://github.com/bubkoo/html-to-image/compare/v1.11.11...v1.11.12) (2023-02-12)
+
+### Bug Fixes
+
+* fix snapshot when video with poster has not been launched
+* fix children of the Slot tag if there are no assignedNodes
+
 ## [1.11.11](https://github.com/bubkoo/html-to-image/compare/v1.11.10...v1.11.11) (2023-02-01)
 
 ## [1.11.10](https://github.com/bubkoo/html-to-image/compare/v1.11.9...v1.11.10) (2023-02-01)
